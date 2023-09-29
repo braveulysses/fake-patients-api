@@ -1,2 +1,3 @@
-# fake-patients-api
-another toy demo API for work
+# Fake Patient API
+
+This is a fake user patient data API, used to demonstrate PingOne Authorize.
