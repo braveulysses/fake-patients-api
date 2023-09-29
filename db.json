@@ -1,0 +1,46 @@
+{
+  "patients": [
+    {
+      "id": "2231cfde-b7f6-4553-9e2b-beb75b4296b2",
+      "username": "jim",
+      "givenName": "Jim",
+      "familyName": "Reid",
+      "maladies": [
+        "torpor",
+        "sloth",
+        "fantods"
+      ]
+    },
+    {
+      "id": "b899357d-5f4f-40e1-897b-8f4b3da75add",
+      "username": "william",
+      "givenName": "Wiilliam",
+      "familyName": "Reid",
+      "maladies": [
+        "chilblains",
+        "quinsy",
+        "fits"
+      ]
+    },
+    {
+      "id": "e86bf7d5-9178-40ef-a65d-f786ab1618ca",
+      "username": "doug",
+      "givenName": "Doug",
+      "familyName": "Hart",
+      "maladies": [
+        "consumption"
+      ]
+    },
+    {
+      "id": "d31c3be8-8c13-458f-af04-15cf26d39371",
+      "username": "bobby",
+      "givenName": "Bobby",
+      "familyName": "Gillespie",
+      "maladies": [
+        "ague",
+        "dropsy",
+        "apoplexy"
+      ]
+    }
+  ]
+}
